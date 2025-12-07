@@ -1,0 +1,92 @@
+﻿  THENEW.cpp
+C:\Users\ZORO\Downloads\مكتبات\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsUser.h(181,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'THENEW.cpp')
+      C:\Users\ZORO\source\repos\THENEW\THENEW\clsUser.h(166,13):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsMainScreen1.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsInputValiDate.h(99,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\Downloads\مكتبات\clsInputValiDate.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(184,19): warning C4240: nonstandard extension used: access to 'clsBankClient1::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'THENEW.cpp')
+      C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(166,12):
+      see declaration of 'clsBankClient1::stTrnsferLogRecord'
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(184,19): warning C4091: 'static ': ignored on left of 'clsBankClient1::stTrnsferLogRecord' when no variable is declared
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(402,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(414,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsAddNewClientScreen.h(28,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsUpdateClientScreen.h(45,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsTransactionsScreen.h(23,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsAddNewUserScreen.h(115,44): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsUpdateUserScreen.h(114,44): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsManageUsersScreen.h(27,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsLoginRegisterScreen.h(30,24): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsCurrency.h(24,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsUdateRateCurrency.h(45,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsCalculatorCurrency.h(45,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsCurrencyScrren.h(23,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsMainScreen1.h(29,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'THENEW.cpp')
+  
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsBankClient1.h(357,1): warning C4715: 'clsBankClient1::Save': not all control paths return a value
+C:\Users\ZORO\source\repos\THENEW\THENEW\clsUser.h(344,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  THENEW.vcxproj -> C:\Users\ZORO\source\repos\THENEW\x64\Debug\THENEW.exe
